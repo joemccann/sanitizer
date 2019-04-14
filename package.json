@@ -1,0 +1,29 @@
+{
+  "name": "sanitizer",
+  "version": "1.0.0",
+  "description": "🛀🏼 Sanitize and validate inputs.",
+  "main": "index.js",
+  "scripts": {
+    "pretest": "standard",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joemccann/sanitizer.git"
+  },
+  "keywords": [
+    "validation",
+    "email"
+  ],
+  "author": "Joe McCann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joemccann/sanitizer/issues"
+  },
+  "homepage": "https://github.com/joemccann/sanitizer#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^12.0.1",
+    "tape": "^4.10.1"
+  }
+}
